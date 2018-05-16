@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="abc_web"
+  id="myeclipse.1477564878684"
+  context-root="/abc-web"
+  j2ee-spec="6.0"
+  archive="abc_web.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
